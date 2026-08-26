@@ -571,7 +571,7 @@ Lapiaは現在、**構想・設計段階**です。
 
 # 著作権・利用条件
 
-**Copyright © 2025-2026 Yutaka Yoshioka. All Rights Reserved.**
+**Copyright © 2025 Yutaka Yoshioka. All Rights Reserved.**
 
 Lapiaに関する成果物の著作権その他の権利は、それぞれ実際に制作した権利者に帰属します。
 
