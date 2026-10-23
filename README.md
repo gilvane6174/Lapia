@@ -25,8 +25,6 @@ Lapiaは医療や治療を代替するサービスではなく、**日常の中�
 - **想定技術:** Flutter / Firebase / GPT連携 / Stripe
 - **License:** Lapia Custom License
 
-<a href="https://doi.org/10.5281/zenodo.15970970"><img src="https://zenodo.org/badge/1020744276.svg" alt="DOI"></a>
-
 ---
 
 # Lapiaを考えた理由
@@ -646,16 +644,6 @@ Lapiaとは将来的に、**「状態を記録する」から「必要なとき�
 学習、仕事体験、実績づくり、福祉・就労支援等を扱う支援プラットフォーム構想。
 
 Lapiaとは将来的に、**「学ぶ・働く」過程で生じる孤独や対人負担を、本人が希望する場合だけ対話で補う**形の連携を検討しています。
-
----
-
-# DOI / Archive
-
-Lapiaに関連する公開記録はZenodoにも保存されています。
-
-**DOI:** 10.5281/zenodo.15970970
-
-https://doi.org/10.5281/zenodo.15970970
 
 ---
 
