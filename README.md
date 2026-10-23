@@ -555,7 +555,7 @@ Lapiaは現在、**構想・設計段階**です。
 
 現在の主な設計資料：
 
-- `Lapia_Design_v0.1.pdf` または同内容の設計文書  
+- [`docs/Lapia_Design_v0.1.md`](./docs/Lapia_Design_v0.1.md)  
   Lapiaの目的、機能、画面遷移、技術構想、安全設計等を整理した資料
 
 - [`LICENSE.md`](./LICENSE.md)  
